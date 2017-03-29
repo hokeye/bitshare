@@ -9,7 +9,7 @@ using hokeye;
 
 namespace bitshare.Droid
 {
-    [Activity(Label = "bitshare.Droid", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "bitshare", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         int count = 1;

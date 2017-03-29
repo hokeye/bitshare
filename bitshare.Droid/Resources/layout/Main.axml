@@ -10,6 +10,11 @@
         p1:layout_width="match_parent"
         p1:layout_height="wrap_content"
         p1:id="@+id/textView1" />
+    <Switch
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/switch1"
+        p1:text="Testing some control" />
     <Button
         p1:id="@+id/btnDiscover"
         p1:text="@string/Hello"
